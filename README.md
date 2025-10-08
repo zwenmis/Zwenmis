@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓 Merhaba! Ben 10. sınıf bir lise öğrencisiyim. Sağlık alanında, özellikle hemşirelik üzerine eğitim alıyorum. 👩‍⚕️<br>💻 Bununla birlikte yazılıma olan ilgim doğrultusunda Java ve C++ dillerinde kendimi geliştiriyorum.<br>🌐 Şu ana kadar çeşitli Discord botları ve web projeleri geliştirdim. Bu projelerle hem backend hem frontend alanında pratik kazandım.<br>📂 GitHub profilimde zamanla daha fazla açık kaynak proje ve paylaşım bulabilirsiniz.<br>🚀 Öğrenmeyi, üretmeyi ve yeni teknolojileri keşfetmeyi seviyorum.<br><br>
+🧑‍🎓 Merhaba! Ben 11. sınıf bir lise öğrencisiyim. Sağlık alanında, özellikle hemşirelik üzerine eğitim alıyorum. 👩‍⚕️<br>💻 Bununla birlikte yazılıma olan ilgim doğrultusunda Java ve C++ dillerinde kendimi geliştiriyorum.<br>🌐 Şu ana kadar çeşitli Discord botları ve web projeleri geliştirdim. Bu projelerle hem backend hem frontend alanında pratik kazandım.<br>📂 GitHub profilimde zamanla daha fazla açık kaynak proje ve paylaşım bulabilirsiniz.<br>🚀 Öğrenmeyi, üretmeyi ve yeni teknolojileri keşfetmeyi seviyorum.<br><br>
 
 
 ## 🌐 Socials:
