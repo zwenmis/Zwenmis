@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 📫 How to reach me **dc Kayipruhlar**
+- 📫 How to reach me **dc olurdu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
